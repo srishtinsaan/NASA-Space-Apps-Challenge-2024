@@ -58,6 +58,10 @@ Data Encryption: TLS/SSL protocols
 **6. Cloud Infrastructure:**  
 Cloud Computing Platforms: AWS, Microsoft Azure, or Google Cloud
 Edge Computing: To handle real-time data processing on devices with limited internet connectivity
+
+##Social Media Handle  
+
+[Instagram Page Link](https://www.instagram.com/exovision.ai/profilecard/?igsh=dWx4N216Y3B1bW41)  
 ## License
 
 This project is licensed under the Apache Public License - v 2.0, you can read the full text [here](https://github.com/srishtinsaan/NASA-Space-Apps-Challenge-2024?tab=Apache-2.0-1-ov-file) 
