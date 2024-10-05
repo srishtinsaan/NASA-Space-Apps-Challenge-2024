@@ -3,6 +3,13 @@
 
 Our project is focused on designing an innovative platform for students to explore the night sky from the perspective of exoplanets. Led by Kritika Agarwal, we’re part of NASA Space Apps Jaipur 2024.
 
+Here's the logo of our project:
+
+![Logo:](https://www.dropbox.com/scl/fi/z7ggxtx0w2tvv2iap5psd/logo-BLACK-transparent.png?rlkey=y1ef65sm7haja62r9zw82fi5h&st=pfn8umk9&raw=1)
+
+## Website Link
+
+Here's the link of our website: [Exovision](https://exovision.flutterflow.app/)
 
 ## Snapshots of Exovision Website
 
@@ -15,15 +22,11 @@ Our project is focused on designing an innovative platform for students to explo
 ![App Screenshot](https://www.dropbox.com/scl/fi/u6udmia946a7nu4l9uh92/WhatsApp-Image-2024-10-04-at-8.52.08-PM-1.jpeg?rlkey=lzw5ygv9kw4q0niesmaho91uk&st=0gzcyjhv&raw=1)
 
 ![App Screenshot](https://www.dropbox.com/scl/fi/d7ly5dcw2n3pw93uuo1c9/WhatsApp-Image-2024-10-04-at-8.52.00-PM.jpeg?rlkey=eb2mczvja7ftz0383jf2ucu9v&st=xd5gibtr&raw=1)
-Here's the logo of our project:
-
-![Logo:](https://www.dropbox.com/scl/fi/z7ggxtx0w2tvv2iap5psd/logo-BLACK-transparent.png?rlkey=y1ef65sm7haja62r9zw82fi5h&st=pfn8umk9&raw=1)
 
 
 
-## Website Link
 
-Here's the link of our website: [Exovision](https://exovision.flutterflow.app/)
+
 ## Technologies Used
 **1. Data Storage:**  
 SQL Databases: PostgreSQL, MySQL  
