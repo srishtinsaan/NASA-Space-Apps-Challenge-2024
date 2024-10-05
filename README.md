@@ -59,7 +59,7 @@ Data Encryption: TLS/SSL protocols
 Cloud Computing Platforms: AWS, Microsoft Azure, or Google Cloud
 Edge Computing: To handle real-time data processing on devices with limited internet connectivity
 
-##Social Media Handle  
+## Social Media Handle  
 
 [Instagram Page Link](https://www.instagram.com/exovision.ai/profilecard/?igsh=dWx4N216Y3B1bW41)  
 ## License
