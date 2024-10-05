@@ -11,6 +11,10 @@ Here's the logo of our project:
 
 Here's the link of our website: [Exovision](https://exovision.flutterflow.app/)
 
+## Presentation Video Link
+
+Here's the link of our presentation video: [Presentation Video](https://www.dropbox.com/scl/fi/86r8lfwdaplt89kdmj81f/Exovision.mp4?rlkey=c7qcbrogxbsx8w79w5nw3mnp1&st=btahsv9x&raw=1)  
+
 ## Snapshots of Exovision Website
 
 ![App Screenshot](https://www.dropbox.com/scl/fi/thivcq6sz02vmf9dwow5q/WhatsApp-Image-2024-10-04-at-8.52.08-PM-2.jpeg?rlkey=66xcv1cw2rdp40e7h75we9w1t&st=61alqxns&raw=1)
